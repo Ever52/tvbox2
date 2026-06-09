@@ -5,6 +5,7 @@
 	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
 }
 
+html,
 body {
 	line-height: 1.5;
 	min-height: 100vh;
@@ -12,6 +13,13 @@ body {
 	justify-content: center;
 	align-items: center;
 	padding: 15px
+}
+
+#root {
+	min-height: 100vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
 }
 
 .container {
