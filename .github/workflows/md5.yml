@@ -1,4 +1,8 @@
+<<<<<<< Updated upstream
 name: Update MD5
+=======
+*name: Auto Update MD5
+>>>>>>> Stashed changes
 
 on:
   # 监听代码推送
