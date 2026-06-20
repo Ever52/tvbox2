@@ -9,7 +9,7 @@ updates:
     directory: "/" # Location of package manifests
     schedule:
       interval: "daily"
-      day: "monday"
+      # day: "monday"
       timezone: "Asia/Shanghai"
       time: "09:00"
     
@@ -20,14 +20,14 @@ updates:
 
     open-pull-requests-limit: 10
 
-    commit-message:
-      prefix: "ci"
-      prefix-development: "ci"
-      include: "scope"
+    # commit-message:
+      # prefix: "ci"
+      # prefix-development: "ci"
+      # include: "scope"
 
-    labels:
-      - "dependencies"
-      - "documentation"
+    # labels:
+      # - "dependencies"
+      # - "documentation"
 
-    pull-request-branch-name:
-      separator: "-"
+    # pull-request-branch-name:
+      # separator: "-"

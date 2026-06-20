@@ -40,7 +40,7 @@ jobs:
       - name: Commit & Push Changes
         run: |
           # Configure bot identity
-          git config --global user.name "github-actions"
+          git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
           # Stage both js and jar md5 files
