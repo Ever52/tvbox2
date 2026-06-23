@@ -1,13 +1,6 @@
 {
 	"sites": [
 		{
-			"key": "Nostr",
-			"name": "推荐",
-			"type": 3,
-			"api": "csp_Nostr",
-			"homePage": "./nostr.html"
-		},
-		{
 			"key": "聚合短剧",
 			"name": "聚合短剧",
 			"type": 3,
@@ -17,6 +10,13 @@
 				"ratio": 1.33
 			},
 			"changeable": 1
+		},
+		{
+			"key": "Nostr",
+			"name": "Nostr 推荐",
+			"type": 3,
+			"api": "csp_Nostr",
+			"homePage": "./nostr.html"
 		},
 		{
 			"key": "金牌影院",

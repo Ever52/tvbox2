@@ -1,13 +1,6 @@
 {
 	"sites": [
 		{
-			"key": "Nostr",
-			"name": "推荐",
-			"type": 3,
-			"api": "csp_Nostr",
-			"homePage": "./nostr.html"
-		},
-		{
 			"key": "PTT",
 			"name": "PTT",
 			"type": 3,
@@ -78,6 +71,13 @@
 				"ratio": 1.33
 			},
 			"filterable": 1
+		},
+		{
+			"key": "Nostr",
+			"name": "Nostr 推荐",
+			"type": 3,
+			"api": "csp_Nostr",
+			"homePage": "./nostr.html"
 		},
 		{
 			"key": "油管webjar",

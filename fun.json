@@ -1,18 +1,18 @@
 {
 	"sites": [
 		{
-			"key": "Nostr",
-			"name": "推荐",
-			"type": 3,
-			"api": "csp_Nostr",
-			"homePage": "./nostr.html"
-		},
-		{
 			"key": "精品资源站",
 			"name": "精品资源",
 			"type": 1,
 			"api": "https://www.jingpinx.com/api.php/provide/vod/",
 			"ext": "proxy"
+		},
+		{
+			"key": "Nostr",
+			"name": "Nostr 推荐",
+			"type": 3,
+			"api": "csp_Nostr",
+			"homePage": "./nostr.html"
 		},
 		{
 			"key": "Jable",
