@@ -752,44 +752,27 @@
 			"name": "歌手直播",
 			"type": 0,
 			"url": "https://mgtv.ottiptv.cc/mglist.m3u",
-			"ua": "okhttp/3.15",
-			"playerType": 2
-		},
-		{
-			"name": "平台直播",
-			"type": 0,
-			"url": "https://tv.iill.top/m3u/Live",
-			"ua": "okhttp/3.15",
-			"playerType": 2,
-			"timeout": 10
+			"ua": "okhttp/3.15"
 		},
 		{
 			"name": "虎牙一起看",
 			"type": 0,
-			"url": "https://sub.ottiptv.cc/huyayqk.m3u",
-			"playerType": 2,
-			"timeout": 10
+			"url": "https://sub.ottiptv.cc/huyayqk.m3u"
 		},
 		{
 			"name": "斗鱼一起看",
 			"type": 0,
-			"url": "https://sub.ottiptv.cc/douyuyqk.m3u",
-			"playerType": 2,
-			"timeout": 10
+			"url": "https://sub.ottiptv.cc/douyuyqk.m3u"
 		},
 		{
-			"name": "B 站直播",
+			"name": "B站直播",
 			"type": 0,
-			"url": "https://sub.ottiptv.cc/bililive.m3u",
-			"playerType": 2,
-			"timeout": 10
+			"url": "https://sub.ottiptv.cc/bililive.m3u"
 		},
 		{
-			"name": "YY 轮播",
+			"name": "YY轮播",
 			"type": 0,
-			"url": "https://sub.ottiptv.cc/yylunbo.m3u",
-			"playerType": 2,
-			"timeout": 10
+			"url": "https://sub.ottiptv.cc/yylunbo.m3u"
 		},
 		{
 			"name": "Kimentanm",
@@ -865,7 +848,7 @@
 			]
 		},
 		{
-			"name": "114dns",
+			"name": "114",
 			"url": "https://dns.114dns.com/dns-query",
 			"ips": [
 				"114.114.114.114",
@@ -1091,7 +1074,7 @@
 			}
 		},
 		{
-			"host": "live.ottiptv.cc",
+			"host": "https://live.ottiptv.cc",
 			"header": {
 				"User-Agent": "okHttp/Mod-1.5.0.0",
 				"Referer": "https://live.ottiptv.cc/"
