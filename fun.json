@@ -357,6 +357,22 @@
 			}
 		},
 		{
+			"key": "csp_Sukebei",
+			"name": "Sukebei",
+			"type": 3,
+			"api": "csp_Sukebei",
+			"proxy": "proxy",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"changeable": 0,
+			"style": {
+				"type": "rect",
+				"ratio": 1.48
+			},
+			"ext": "null$$$https://sukebei.nyaa.si$$$proxy"
+		},
+		{
 			"key": "py_jable",
 			"name": "jable(T3)",
 			"type": 3,
