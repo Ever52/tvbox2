@@ -6061,3 +6061,37 @@ Astro AEC,
 # 以下 1 个频道为其他任务未匹配到的频道，自动追加于 2026-07-14 15:01:16.852181
 港澳台,#genre#
 千禧经典,
+
+# 以下 27 个频道为其他任务未匹配到的频道，自动追加于 2026-07-15 04:14:45.562826
+央视,#genre#
+CCTV高尔夫网球|高尔夫网球,
+数字,#genre#
+CHC动作电影,
+睛彩青少,
+睛彩广场,
+SiTV动漫秀场|动漫秀场,
+NewTV黑莓电影|黑莓电影,
+NewTV黑莓动画|黑莓动画,
+NewTV超级电影|超级电影|NewTV超级电影 4M1080|NewTV_超级电影「IPV6」,
+NewTV超级电视剧|超级电视剧|NewTV超级电视剧 4M1080|超级视剧|NewTV_超级电视剧「IPV6」,
+NewTV爱情喜剧|爱情喜剧,
+NewTV东北热剧|东北热剧|NewTV东北热剧 4M1080|NewTV_东北热剧「IPV6」,
+NewTV古装剧场|古装剧场|古装剧场 8M1080|NewTV_古装剧场「IPV6」,
+NewTV军旅剧场|军旅剧场|NewTV军旅剧场 2.5M1080|NewTV_军旅剧场「IPV6」,
+NewTV惊悚悬疑|惊悚悬疑|NewTV惊悚悬疑 2.5M1080|NewTV_惊悚悬疑「IPV6」,
+NewTV潮妈辣婆|潮妈辣婆|NewTV潮妈辣婆 4M1080|NewTV_潮妈辣婆「IPV6」,
+NewTV家庭剧场|家庭剧场|NewTV家庭剧场 2.5M1080|NewTV_家庭剧场「IPV6」,
+NewTV精品大剧|精品大剧|NewTV精品大剧 2.5M1080,
+NewTV军事评论|军事评论|NewTV军事评论 2.5M1080|NewTV_军事评论「IPV6」,
+NewTV超级综艺|超级综艺|NewTV超级综艺 4M1080|NewTV_超级综艺「IPV6」,
+NewTV金牌综艺|金牌综艺|NewTV金牌综艺 2.5M1080|NewTV_金牌综艺「IPV6」,
+NewTV农业致富|农业致富,
+NewTV炫舞未来|炫舞未来,
+NewTV哒啵赛事|哒啵赛事,
+明星大片,
+重庆,#genre#
+重庆汽摩,
+广东,#genre#
+岭南戏曲,
+港澳台,#genre#
+ViuTV6,
