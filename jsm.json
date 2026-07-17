@@ -177,26 +177,18 @@
 			"filterable": 1,
 			"timeout": 60,
 			"ext": {
-				"key": "PanSouGo",
-				"name": "PanSou",
-				"type": 3,
-				"api": "csp_PanSouGo",
-				"searchable": 1,
-				"changeable": 0,
-				"ext": {
-					"token": "./lib/tokenm.json",
-					"siteurl": "",
-					"proxy": "noproxy",
-					"danmu": "0",
-					"plugins": "all",
-					"panlist": "all",
-					"filters": {
-						"include": [],
-						"exclude": [
-							"广告",
-							"预告"
-						]
-					}
+				"token": "./lib/tokenm.json",
+				"siteurl": "",
+				"proxy": "noproxy",
+				"danmu": "0",
+				"plugins": "all",
+				"panlist": "all",
+				"filters": {
+					"include": [],
+					"exclude": [
+						"广告",
+						"预告"
+					]
 				}
 			}
 		},
@@ -314,7 +306,7 @@
 			"changeable": 1,
 			"filterable": 1,
 			"timeout": 60,
-			"ext": "./lib/tokenm.json$$$http://www.libvio.mov/$$$noproxy$$$1"
+			"ext": "./lib/tokenm.json$$$https://www.libvio.io/$$$noproxy$$$1"
 		},
 		{
 			"key": "Guazi",
@@ -336,7 +328,7 @@
 			"changeable": 1,
 			"filterable": 1,
 			"timeout": 60,
-			"ext": "./lib/tokenm.json$$$https://www.hdmoli.pro/$$$proxy$$$1$$$./lib/moli.json"
+			"ext": "./lib/tokenm.json$$$https://www.hdmoli.com/$$$noproxy$$$1$$$./lib/moli.json"
 		},
 		{
 			"key": "美剧迷",

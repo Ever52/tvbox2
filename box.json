@@ -109,6 +109,13 @@
 			"ext": "./js/s/大白鲨.json"
 		},
 		{
+			"key": "奇优",
+			"name": "奇优影院(没好",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"ext": "./js/s/奇优.json"
+		},
+		{
 			"key": "2",
 			"name": "--- 2 ---"
 		},
@@ -1215,7 +1222,8 @@
 		"PPTV",
 		"migu"
 	],
-	"spider": "./jar/xbpq.jar;md5;./jar/xbpq.jar.md5",
+	"danmaku": "https://127.0.0.1:9978/proxy?do=danmaku&name={name}&episode={episode}",
+	"spider": "./jar/xb.jar",
 	"disabled_wallpaper": "./img/0.jpg",
 	"wallpaper": "./img/0.jpg",
 	"logo": "./img/pg.gif",

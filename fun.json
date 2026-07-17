@@ -22,6 +22,14 @@
 			"ext": ""
 		},
 		{
+			"key": "xp天堂",
+			"name": "XP天堂",
+			"type": 3,
+			"filterable": 0,
+			"changeable": 0,
+			"api": "./js/xp天堂.js"
+		},
+		{
 			"key": "Jable",
 			"name": "Jable",
 			"jar": "./jar/gm.jar",

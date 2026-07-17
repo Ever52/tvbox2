@@ -10,7 +10,7 @@
 			"ext": {
 				"class": "Ytdl",
 				"ext": {
-					"youtube_txt": "./lib/youtube.json"
+					"youtube_txt": "./lib/yt2.json"
 				},
 				"style": {
 					"type": "rect",
@@ -28,7 +28,7 @@
 			"quickSearch": 1,
 			"ext": {
 				"class": "YoutubeSpidertv",
-				"ext": "./lib/youtube.json"
+				"ext": "./lib/yt2.json"
 			},
 			"style": {
 				"type": "rect",

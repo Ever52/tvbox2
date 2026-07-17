@@ -37,8 +37,24 @@
 			"changeable": 1
 		},
 		{
+			"key": "油管py",
+			"name": "油管 | PY",
+			"type": 3,
+			"api": "./py/ytb.py",
+			"searchable": 1,
+			"quickSearch": 1,
+			"style": {
+				"type": "rect",
+				"ratio": 1.33
+			},
+			"ext": {
+				"count": "./lib/yt2.json"
+			},
+			"filterable": 1
+		},
+		{
 			"key": "油管so",
-			"name": "油管视频",
+			"name": "油管 | SO",
 			"type": 3,
 			"api": "csp_ProxySpider",
 			"searchable": 1,
@@ -46,7 +62,7 @@
 			"ext": {
 				"class": "Ytdl",
 				"ext": {
-					"youtube_txt": "./lib/youtube.json"
+					"youtube_txt": "./lib/yt2.json"
 				},
 				"style": {
 					"type": "rect",
@@ -64,7 +80,7 @@
 			"quickSearch": 1,
 			"ext": {
 				"class": "YoutubeSpidertv",
-				"ext": "./lib/youtube.json"
+				"ext": "./lib/yt2.json"
 			},
 			"style": {
 				"type": "rect",
