@@ -146,6 +146,15 @@
 			}
 		},
 		{
+			"key": "盘链",
+			"name": "盘链|网盘",
+			"type": 3,
+			"api": "csp_PingLian",
+			"searchable": 1,
+			"timeout": 60,
+			"ext": "./lib/tokenm.json$$$https://pinglian.lol$$$$$$0$$$$$$PANLIAN$$$USER$$$PASS"
+		},
+		{
 			"key": "zmi",
 			"name": "蜗牛|网盘",
 			"type": 3,
@@ -219,6 +228,17 @@
 			"filterable": 1,
 			"timeout": 60,
 			"ext": "./lib/token.json$$$https://share.huamucang.top/$$$noproxy$$$1$$$./lib/huamucang.txt$$$HUAMUCANG$$$USER$$$PASS"
+		},
+		{
+			"key": "csp_Qwmp4",
+			"name": "七味|网盘|磁力",
+			"type": 3,
+			"api": "csp_Qwmp4",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"timeout": 60,
+			"ext": "./lib/tokenm.json$$$https://www.qwmp4.com/$$$noproxy$$$0$$$$$QIWEI"
 		},
 		{
 			"key": "Hema4k",

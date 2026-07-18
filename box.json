@@ -71,16 +71,6 @@
 			"name": "--- 1 ---"
 		},
 		{
-			"key": "小苹果",
-			"name": "苹果弹幕",
-			"type": 3,
-			"api": "csp_Xpg",
-			"jar": "./jar/fenghuang.jar",
-			"ext": {
-				"danmu": true
-			}
-		},
-		{
 			"key": "小镇",
 			"name": "小镇影视",
 			"type": 3,
@@ -999,11 +989,6 @@
 			"url": "https://p10.zijincao.cc/?url="
 		},
 		{
-			"name": "抚琴",
-			"type": 0,
-			"url": "https://jx.xmflv.com/?url="
-		},
-		{
 			"name": "七哥",
 			"url": "https://jx.nnxv.cn/tv.php?url=",
 			"type": 0
@@ -1019,19 +1004,44 @@
 			"url": "https://jx.jsonplayer.com/player/?url="
 		},
 		{
-			"name": "xmflv",
+			"name": "ckplayer",
 			"type": 0,
-			"url": "https://jx.xmflv.com/?url="
+			"url": "https://www.ckplayer.vip/jiexi/?url=",
+			"ext": {
+				"header": {
+					"user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"
+				}
+			}
 		},
 		{
 			"name": "M3U8",
 			"url": "https://jx.m3u8.tv/jiexi/?url=",
-			"type": 0
+			"type": 0,
+			"ext": {
+				"header": {
+					"user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"
+				}
+			}
+		},
+		{
+			"name": "OKJX",
+			"type": 0,
+			"url": "https://okjx.cc/?url=",
+			"ext": {
+				"header": {
+					"user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"
+				}
+			}
 		},
 		{
 			"name": "PM",
 			"url": "https://www.playm3u8.cn/jiexi.php?url=",
-			"type": 0
+			"type": 0,
+			"ext": {
+				"header": {
+					"user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"
+				}
+			}
 		}
 	],
 	"ijk": [
